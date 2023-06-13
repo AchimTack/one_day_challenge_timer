@@ -1,1 +1,3 @@
-# one_day_challenge_timer
+# One Day Challenge Timer
+
+Simple timer for Lego Robotics Challenges
